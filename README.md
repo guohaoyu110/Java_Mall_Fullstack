@@ -45,7 +45,7 @@ Lombok       | 1.18.6 | Simplified Object Encapsulation Tool  |
     - [ ] Return reason settings
 
 - [ ] Marketing Module 
-    - [ ] Spike campaign management
+    - [ ] Spike shopping campaign management
     - [ ] Preferential price management
     - [ ] Brand recommendation management
     - [ ] New product recommendation management
