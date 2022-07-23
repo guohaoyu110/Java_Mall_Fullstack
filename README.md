@@ -29,3 +29,44 @@ OSS       | 2.5.0 | Object storage  |
 JWT        | 0.9.0 | JWT login support |
 Lombok       | 1.18.6 | Simplified Object Encapsulation Tool  |
 
+
+## Overview of implemented shopping mall functions 
+
+- [ ] Commodity Module
+    - [ ] Commodity management 
+    - [ ] Commodity classification management 
+    - [ ] Product type management 
+    - [ ] Brand management 
+
+- [ ] Order Module 
+    - [ ] Order management 
+    - [ ] Order settings 
+    - [ ] Return request processing 
+    - [ ] Return reason settings
+
+
+- [ ] Lab 2: Raft
+
+- [ ] Lab 3: Fault-tolerant Key/Value Service
+
+- [ ] Lab 4: Sharded Key/Value Service
+
+    - [ ] Garbage collection of state
+    
+    - [ ] Client requests during configuration changes
+
+
+
+order module
+Order management
+Order Settings
+Return request processing
+Return Reason Settings
+Marketing Module
+Spike campaign management
+Preferential price management
+Brand recommendation management
+New product recommendation management
+Popular recommendation management
+Special Recommendation Management
+HomeAdvertising Management
