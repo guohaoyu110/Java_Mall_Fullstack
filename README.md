@@ -44,29 +44,13 @@ Lombok       | 1.18.6 | Simplified Object Encapsulation Tool  |
     - [ ] Return request processing 
     - [ ] Return reason settings
 
-
-- [ ] Lab 2: Raft
-
-- [ ] Lab 3: Fault-tolerant Key/Value Service
-
-- [ ] Lab 4: Sharded Key/Value Service
-
-    - [ ] Garbage collection of state
-    
-    - [ ] Client requests during configuration changes
+- [ ] Marketing Module 
+    - [ ] Spike campaign management
+    - [ ] Preferential price management
+    - [ ] Brand recommendation management
+    - [ ] New product recommendation management
+    - [ ] Popular recommendation management
+    - [ ] Special Recommendation Management
+    - [ ] HomeAdvertising Management
 
 
-
-order module
-Order management
-Order Settings
-Return request processing
-Return Reason Settings
-Marketing Module
-Spike campaign management
-Preferential price management
-Brand recommendation management
-New product recommendation management
-Popular recommendation management
-Special Recommendation Management
-HomeAdvertising Management
