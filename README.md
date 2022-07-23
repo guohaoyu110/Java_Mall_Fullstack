@@ -35,14 +35,14 @@ Lombok       | 1.18.6 | Simplified Object Encapsulation Tool  |
 - [ ] Commodity Module
     - [ ] Commodity management 
     - [ ] Commodity classification management 
-    - [ ] Product type management 
+    - [ ] Commodity type management 
     - [ ] Brand management 
 
 - [ ] Order Module 
     - [ ] Order management 
     - [ ] Order settings 
     - [ ] Return request processing 
-    - [ ] Return reason settings
+    - [ ] Return reason processing
 
 - [ ] Marketing Module 
     - [ ] Spike shopping campaign management
@@ -50,7 +50,7 @@ Lombok       | 1.18.6 | Simplified Object Encapsulation Tool  |
     - [ ] Brand recommendation management
     - [ ] New product recommendation management
     - [ ] Popular recommendation management
-    - [ ] Special Recommendation Management
-    - [ ] HomeAdvertising Management
+    - [ ] Special Panel Recommendation Management
+    - [ ] Homepage Advertising Management
 
 
